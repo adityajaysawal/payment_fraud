@@ -1,1 +1,2 @@
 # payment_fraud
+The Payment Fraud Check Project with Logistic Regression and StandardScaler is a data-driven initiative designed to combat payment fraud by leveraging machine learning techniques. This project aims to develop a fraud detection system using Logistic Regression, supported by feature scaling using StandardScaler, and visualize the results using Seaborn. The goal is to enhance the security of financial transactions, minimize losses, and provide insights into transaction data through data visualization.
